@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, devops and AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on open-source
-- 📫 How to reach me https://www.linkedin.com/in/cevheribozoglan/
+- 📫 How to reach me https://www.linkedin.com/in/cevheribozoglan/, https://github.com/cevheri
 - 😄 Pronouns: mehmet
 - ⚡ Fun fact: 
 
